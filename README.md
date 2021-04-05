@@ -6,4 +6,4 @@ Site with my personal informations:
 - Projects
 - Social medias
 
-You can access https://davidcristian.github.io-aboutme
+You can access https://deytt.github.io/
